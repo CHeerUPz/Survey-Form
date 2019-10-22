@@ -1,0 +1,44 @@
+body {
+    background-color: #def7ff;
+    background-image: url("https://www.transparenttextures.com/patterns/45-degree-fabric-dark.png");
+    font-family: 'Work Sans', sans-serif;
+}
+.container {
+    background-color: rgba(255, 255, 255, 0.795);
+    border-radius: 10px;
+    width: 700px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+header {
+    margin: 30px auto;
+    text-align: center;
+    color: rgba(48, 48, 48, 0.76);
+    text-transform: uppercase;
+}
+#description {
+    padding: 10px; 
+}
+.row {
+    display: block;
+    margin: 20px auto; 
+}
+.label {
+    text-align: right;
+    width: 290px;
+    margin-left: 0px;
+    margin-right: 0px; 
+    display: inline-block;
+    padding-right: 5px;
+}
+.right {
+    padding-left: 5px;
+    text-align: left;
+    width: 290px;
+    margin-left: 0px;
+    margin-right: 0px;
+    display: inline-block;
+}
